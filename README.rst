@@ -44,7 +44,7 @@
 
 
 The ``pytest`` framework makes it easy to write small tests, yet
-scales to support complex functional testing for applications and libraries.
+scales to support complex functional testing for applications and libraries womp womp.
 
 An example of a simple test:
 
