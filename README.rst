@@ -43,9 +43,8 @@
     :alt: Libera chat
 
 
-The ``pytest`` framework makes it easy to write small tests, yet waaaaaaaaa
-scales to support complex functional testing for applications and libraries. Weird Flex Womp womp mogging waawawawaw weird
-
+The ``pytest`` framework makes it easy to write small tests, yet  
+scales to support complex functional testing for applications and libraries. 
 An example of a simple test:
 
 .. code-block:: python
