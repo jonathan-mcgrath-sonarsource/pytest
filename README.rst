@@ -43,7 +43,7 @@
     :alt: Libera chat
 
 
-The ``pytest`` framework makes it easy to write small tests, yet
+The ``pytest`` framework makes it easy to write small tests, yet     weird Flex
 scales to support complex functional testing for applications and libraries womp womp.
 
 An example of a simple test:
